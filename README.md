@@ -28,3 +28,7 @@ If you are having problems starting the program:
 - Make sure you have selected the right Camera input! 
 - Installed all packages
 - Have a CUDA compatible GPU and that CUDA is working
+
+
+https://user-images.githubusercontent.com/54680798/111028891-b2969e00-841f-11eb-8f96-3493327e5c69.mp4
+
